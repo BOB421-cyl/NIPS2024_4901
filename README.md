@@ -13,5 +13,5 @@ Each line in the txt file represents the annotation of a specific object in a sp
 ***
 
 **Annoatation Description:** <br>
-Image_ID, Object_ID, Object_Bounding_Boxes(xmin, ymin, xmax, ymax) Importance_Level(0 for not important, 1 for important).
+Image_ID, Object_ID, Object_Bounding_Boxes(xmin, ymin, xmax, ymax), Importance_Level(0 for not important, 1 for important).
 ***
