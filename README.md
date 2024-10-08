@@ -1,4 +1,4 @@
-# On-Road-Object-Importance-Estimation-A-New-Dataset-and-A-Model-with-Multi-Fold-Top-Down-Guidance
+# On Road Object Importance Estimation A New Dataset and A Model with Multi Fold Top-Down Guidance
 [Zhixiong Nan], [Yilong Chen], [Tianfei Zhou*], [Tao Xiang]
 (*: Corresponding Author)
 
@@ -9,7 +9,7 @@ Coming soon🚀
 
 ## Traffic Object Importance (TOI) Dataset
 ### **Folder Description:** <br>
-The object importance annotation results of TOI are located in the "importance" folder. There are a total of 28 txt files, which correspond to the annotations of 28 videos. The filenames correspond to the raw data in the KITTI official dataset.
+The object importance annotation results of TOI are located in the "annotation" folder. There are a total of 28 txt files, which correspond to the annotations of 28 videos. The filenames correspond to the raw data in the KITTI official dataset.
 
 ### **To Do:** <br>
 To use these annotations, you need to download the Raw Data from the KITTI (https://www.cvlibs.net/datasets/kitti/raw_data.php). The files that need to be downloaded are [synced+rectified data].
