@@ -15,7 +15,7 @@ The object importance annotation results of TOI are located in the "importance" 
 To use these annotations, you need to download the Raw Data from the KITTI (https://www.cvlibs.net/datasets/kitti/raw_data.php). The files that need to be downloaded are [synced+rectified data].
 
 ### **Txt File Description:** <br>
-Each line in the txt file represents the annotation of a specific object in a specific frame image. The annotation information is separated by spaces and includes the following fields in order.
+Each line in the txt file represents the annotation of a specific object in a specific frame image. The annotation information is separated by spaces and includes the following annotation in order.
 
 ### **Annoatation Description:** <br>
 Image_ID, Object_ID, Object_Bounding_Boxes (xmin, ymin, xmax, ymax), Importance_Level (0 for not important, 1 for important).
